@@ -1,0 +1,8 @@
+{
+  "name": "goPretty",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "4f99bbc6"
+}
